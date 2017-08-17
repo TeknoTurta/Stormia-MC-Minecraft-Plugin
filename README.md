@@ -1,4 +1,7 @@
 
+TeknoTurta/Stormia-MC-Minecraft-Plugin is licensed under the
+GNU General Public License v3.0
+
 Gerekenler / Requirements
 
 TR = Plugin Eclipse for Java Developers IDE'si ve spigot-1.8.8 kütüphanesi kullanılarak oluşturulmuştur.
